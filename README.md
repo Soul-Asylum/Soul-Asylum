@@ -1,14 +1,20 @@
 ## Olá seja bem-vindo.
 
-- 👋 Me chamo @Guilherme Augusto da Costa
-- 🚀 Em uma nova jornada na Trybe
+- 👋 Me chamo Guilherme Augusto da Costa
 
-### Atualmente estou aprendendo 
+- 🚀 Em uma nova jornada na Trybe aprendendo a ser um Desenvolvedor Web Full Stack
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/> 
+### Sobre minha aprendizagem
 
+ 
+ - Atualmente estou aprendendo os módulos de Fundamentos.
+ 
+ - Sou apaixonado por Lógica e desenvolvo priorizando o aprimoramento de desempenho dos compenentes dos meus códigos
+ 
+ - Sempre busco aprender maneiras de manter meus códigos mais limpos e organizados
 
-
+ - Costumo utilizar o Padrão de Estilização de código da Airbnb nos meus projetos
+  
 
 ### Contatos:
 
