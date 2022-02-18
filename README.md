@@ -5,9 +5,6 @@
 - 🚀 Em uma nova jornada na Trybe aprendendo a ser um Desenvolvedor Web Full Stack
 
 ### Sobre minha aprendizagem
-
- 
- - Atualmente estou aprendendo os módulos de Fundamentos.
  
  - Sou apaixonado por Lógica e desenvolvo priorizando o aprimoramento de desempenho dos compenentes dos meus códigos
  
