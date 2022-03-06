@@ -4,13 +4,14 @@
 
 - 🚀 Em uma nova jornada na Trybe aprendendo a ser um Desenvolvedor Web Full Stack
 
+- 🚀 Aprendendo programação JAVA com o melhor na DevDojo.Academy
+
 ### Sobre minha aprendizagem
  
- - Sou apaixonado por Lógica e desenvolvo priorizando o aprimoramento de desempenho dos compenentes dos meus códigos
+ - Sou apaixonado por Lógica 
  
  - Sempre busco aprender maneiras de manter meus códigos mais limpos e organizados
 
- - Costumo utilizar o Padrão de Estilização de código da Airbnb nos meus projetos
   
 
 ### Contatos:
