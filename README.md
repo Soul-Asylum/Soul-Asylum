@@ -2,10 +2,6 @@
 
 - 👋 Me chamo Guilherme Augusto da Costa
 
-- 🚀 Em uma nova jornada na Trybe aprendendo a ser um Desenvolvedor Web Full Stack
-
-- 🚀 Aprendendo programação JAVA com o melhor na DevDojo.Academy
-
 ### Sobre minha aprendizagem
  
  - Sou apaixonado por Lógica 
